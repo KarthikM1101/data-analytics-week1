@@ -1,0 +1,11 @@
+Order_ID,Date,Customer,City,Product,Category,Quantity,Unit_Price,Total_Sales
+104,2026-10-04,Arun,Bengaluru,UPI_Device,Hardware,4,5000,20000
+106,2026-10-06,Kiran,Hyderabad,POS_Machine,Hardware,2,8000,16000
+109,2026-10-09,Anu,Mumbai,UPI_Device,Hardware,3,5000,15000
+101,2026-10-01,Ravi,Bengaluru,UPI_Device,Hardware,2,5000,10000
+103,2026-10-03,Priya,Chennai,POS_Machine,Hardware,1,8000,8000
+107,2026-10-07,Divya,Chennai,Credit_Card,Finance,4,2000,8000
+102,2026-10-02,Rahul,Hyderabad,Credit_Card,Finance,3,2000,6000
+108,2026-10-08,Manoj,Bengaluru,Debit_Card,Finance,6,1000,6000
+105,2026-10-05,Sneha,Mumbai,Debit_Card,Finance,5,1000,5000
+110,2026-10-10,Vijay,Hyderabad,Credit_Card,Finance,2,2000,4000
