@@ -6,3 +6,4 @@
 - Day 3: Python Data Analysis Notebook (Pandas, NumPy, Matplotlib)
 - Day 4: Data Cleaning and EDA (cleaned dataset + report)
 - Day 5: Tableau Business Performance Dashboard
+- Day 6: Statistics for Data Analysis
